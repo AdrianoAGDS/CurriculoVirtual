@@ -1,4 +1,5 @@
 import SocialNetworks from './SocialNetworks'
+import InformationContainer from './InformationContainer'
 
 import Avatar from '../img/minhafoto.jpeg'
 
