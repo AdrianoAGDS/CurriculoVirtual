@@ -10,6 +10,7 @@ function App() {
   return (
     <div id="portfolio">
         <h1>Adriano Santos</h1>
+        
         <Sidebar />
         <MainContent />
     </div>
